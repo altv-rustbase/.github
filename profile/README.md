@@ -8,8 +8,8 @@ Founder: carterauro (Carter Auro)
 ### Modules:
 &#9746; Core
 
-&#9744; Register/Login/Recover functional
+&#9744; ~~Register/Login/Recover functional~~
 
-&#9744; Select Characters
+&#9744; ~~Select Characters~~
 
 &#9744; ...
