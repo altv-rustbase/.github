@@ -6,7 +6,7 @@ Current version: b0.0.1.0
 
 Founder: carterauro (Carter Auro)
 
-### Modules:
+## Modules:
 &#9746; Core
 
 &#9744; ~~Register/Login/Recover functional~~
