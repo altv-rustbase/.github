@@ -6,7 +6,7 @@ Current version: b0.0.1.0
 Founder: carterauro (Carter Auro)
 
 ### Modules:
-- [] Core
-- [] Register/Login/Recover functional
-- [] Select Characters
-- [] ...
+[x] Core
+[] Register/Login/Recover functional
+[] Select Characters
+[] ...
