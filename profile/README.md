@@ -14,3 +14,5 @@ Founder: carterauro (Carter Auro)
 &#9744; ~~Select Characters~~
 
 &#9744; ...
+
+- [ ] e 
