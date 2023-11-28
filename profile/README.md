@@ -6,7 +6,7 @@
 - Founder: carterauro (Carter Auro)
 
 ## Modules:
-- [x] Core
+- [ ] Core
 - [ ] ~~Register/Login/Recover functional~~
 - [ ] ~~Select Characters~~
 - [ ] ...
